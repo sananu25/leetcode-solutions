@@ -8,6 +8,8 @@ This repository contains my daily LeetCode practice solutions.
 ## Progress
 - Day 1: Two Sum
 - Day 2: Add Two Numbers
+- Day 3: Best Time To Buy And Sell Stock
+
 
 ## Goal
 - Solve 1 problem daily
