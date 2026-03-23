@@ -11,6 +11,7 @@ This repository contains my daily LeetCode practice solutions.
 - Day 3: Best Time To Buy And Sell Stock
 - Day 4: Contains Duplicate
 - Day 5: Maximum subarray
+- Day 6: Move Zeroes
 
 
 ## Goal
