@@ -1,4 +1,4 @@
-Add_Two_Numbers.py
+# Add_Two_Numbers.py
 
 class Solution:
     def addTwoNumbers(self, l1:Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
@@ -20,3 +20,5 @@ class Solution:
 
         return dummy.next
         
+# Time Complexity:O(n)
+# Space Complexity:O(n)
