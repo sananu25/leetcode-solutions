@@ -9,3 +9,7 @@ class Solution:
                 cleaned+=ch.lower()
 
         return cleaned ==cleaned[::-1]
+
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
