@@ -14,6 +14,7 @@ This repository contains my daily LeetCode practice solutions.
 - Day 6: Move Zeroes
 - Day 7: Merge Sorted Array
 - Day 8: Valid Palindrome
+- dAY 9: Valid Anagram
 
 
 ## Goal
