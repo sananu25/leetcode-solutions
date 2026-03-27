@@ -15,6 +15,7 @@ This repository contains my daily LeetCode practice solutions.
 - Day 7: Merge Sorted Array
 - Day 8: Valid Palindrome
 - Day 9: Valid Anagram
+- Day 10: First Unique Character in a string
 
 
 ## Goal
