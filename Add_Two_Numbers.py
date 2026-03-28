@@ -13,11 +13,9 @@ class Solution:
             if l2:
                 carry +=l2.val
                 l2= l2.next
-
             cur.next =ListNode(carry % 10)
             cur= cur.next
             carry//= 10
-
         return dummy.next
         
 # Time Complexity:O(n)
