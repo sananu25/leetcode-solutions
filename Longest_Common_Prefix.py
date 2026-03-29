@@ -1,5 +1,6 @@
 # Longest_Common_Prefix.py
 
+
 from typing import List
 
 class Solution:
