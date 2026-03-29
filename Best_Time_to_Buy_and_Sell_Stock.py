@@ -1,8 +1,7 @@
 Best_Time_to_Buy_and_Sell_Stock.py
 
 #Time Complexity: O(n²) 
-#Space Complexity: O(1)
-
+#Space Complexity: O(1 )
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
@@ -11,7 +10,7 @@ class Solution:
 
         for price in prices:
             if price < min_price:
-                min_price = price
+                min_price =price
             elif price - min_price > max_profit:
                 max_profit = price - min_price
 
