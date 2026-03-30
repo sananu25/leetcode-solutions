@@ -17,6 +17,7 @@ This repository contains my daily LeetCode practice solutions.
 - Day 9: Valid Anagram
 - Day 10: First Unique Character in a string
 - DAy 11: Longest Common Prefix
+- Day 12: Group Anagrams
 
 
 ## Goal
