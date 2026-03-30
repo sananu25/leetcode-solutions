@@ -6,6 +6,7 @@ class Solution:
         cur =dummy
         carry= 0
 
+        
         while l1 or l2 or carry:
             if l1:
                 carry+= l1.val
