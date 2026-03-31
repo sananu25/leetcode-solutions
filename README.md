@@ -18,6 +18,7 @@ This repository contains my daily LeetCode practice solutions.
 - Day 10: First Unique Character in a string
 - DAy 11: Longest Common Prefix
 - Day 12: Group Anagrams
+- Day 13: Ransom Note
 
 
 ## Goal
