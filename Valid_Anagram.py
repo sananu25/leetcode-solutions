@@ -17,18 +17,18 @@ class Solution:
         return True
 
 
-#-- Time and Space Complexity
+#Time and Space Complexity
 
 
-#----Sorting Approach
+#--Sorting Approach
 
-#-------Time Complexity: O(n log n)
-#-------Space Complexity: O(n)
+#-----Time Complexity: O(n log n)
+#-----Space Complexity: O(n)
 
 
-#----Counting (HashMap) Approach
+#---Counting (HashMap) Approach
 
-#-------Time Complexity: O(n)
-#-------Space Complexity: O(n)
+#-----Time Complexity: O(n)
+#-----Space Complexity: O(n)
 
 
