@@ -19,6 +19,7 @@ This repository contains my daily LeetCode practice solutions.
 - DAy 11: Longest Common Prefix
 - Day 12: Group Anagrams
 - Day 13: Ransom Note
+- Day 14: Two Sum II (sorted)
 
 
 ## Goal
