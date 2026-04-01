@@ -14,3 +14,5 @@ class Solution:
                 left +=1
             else:
                 right-= 1
+#Time Complexity: O(n)
+# Space Complexity:O(1)
